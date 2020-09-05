@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saved_item_author">作者：</string>
+    <string name="saved_item_description">描述：</string>
+</resources>
